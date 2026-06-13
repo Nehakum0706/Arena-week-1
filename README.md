@@ -1,9 +1,13 @@
-Personal Portfolio Website
-Project Overview
+**Personal Portfolio Website**
+
+
+**Project Overview**
+
 This project is a Personal Portfolio Website created using HTML5 as part of the Developers Arena Internship Week 1 Task.
 The main objective of this project is to learn the fundamentals of HTML and create a beginner-friendly portfolio webpage with multiple sections including Home, About, Skills, and Contact.
 
-Objectives
+**Objectives**
+
 •	Learn HTML5 structure
 •	Understand semantic HTML tags
 •	Create internal navigation links
@@ -11,15 +15,19 @@ Objectives
 •	Build a contact form with validation
 •	Create a personal portfolio website
 
-HTML Concepts Learned
-HTML Structure
+
+**HTML Concepts Learned**
+
+**HTML Structure**
+
 Learned how to create the basic structure of a webpage using:
 •	html
 •	head
 •	body
 •	title
 
-Semantic HTML
+**Semantic HTML**
+
 Used semantic tags such as:
 •	header
 •	nav
@@ -28,21 +36,22 @@ Used semantic tags such as:
 •	footer
 These tags help organize webpage content properly and improve readability.
 
-Navigation Links
+**Navigation Links**
 Used anchor tags (a) with section IDs to navigate between different sections of the webpage.
 
-Images
+**Images**
 Added a profile image using the img tag with proper alt text for accessibility.
 
-Forms
+**Forms**
 Created a contact form using:
 •	input
 •	textarea
 •	button
+
 Also used validation attributes such as:
 •	type="email"
 
-Lists
+**Lists**
 Used unordered lists (ul, li) to display technical skills.
 
 Portfolio Structure
